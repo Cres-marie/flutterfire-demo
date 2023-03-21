@@ -40,6 +40,9 @@ dependencies:
   flutterfire_ui: ^0.4.3+20
   shared_preferences: ^2.0.18
   cloud_firestore: ^4.4.4
+  firebase_storage: ^11.0.15
+  image_picker: ^0.8.7
+  path_provider: ^2.0.13
 
 dev_dependencies:
   flutter_test:

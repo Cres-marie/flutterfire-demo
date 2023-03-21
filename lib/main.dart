@@ -28,7 +28,8 @@ class _MyAppState extends State<MyApp> {
     return const MaterialApp(
       title: "Firebase Demo",
       debugShowCheckedModeBanner: false,
-      home: AuthGate(),
+      //home: AuthGate(),
+      home: Home(),
     );
   }
 }
